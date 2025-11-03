@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Toán Tư Duy Mini",
+  "description": "An interactive learning app for primary school students (grades 1–5) in Vietnamese to help kids develop logical and mathematical thinking, with gamification elements like stars and badges.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
